@@ -25,7 +25,7 @@ export const robots = [
     },
     {
         id:5,
-        name: 'Penny Something',
+        name: 'Penny Teller',
         username: 'Painy',
         email: 'penpen@gmail.com'
     },
@@ -43,7 +43,7 @@ export const robots = [
     },
     {
         id:8,
-        name: 'Stuart Moot',
+        name: 'Stuart Bloom',
         username: 'Stewie',
         email: 'stew@gmail.com'
     },
